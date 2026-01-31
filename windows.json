@@ -1,0 +1,11 @@
+[
+  { "label": "1952–1961 (A)", "file": "data/1952-1961_A.gexf" },
+  { "label": "1957–1966 (B)", "file": "data/1957-1966_B.gexf" },
+  { "label": "1962–1971 (C)", "file": "data/1962-1971_C.gexf" },
+  { "label": "1967–1976 (D)", "file": "data/1967-1976_D.gexf" },
+  { "label": "1972–1981 (E)", "file": "data/1972-1981_E.gexf" },
+  { "label": "1977–1986 (F)", "file": "data/1977-1986_F.gexf" },
+  { "label": "1982–1991 (G)", "file": "data/1982-1991_G.gexf" },
+  { "label": "1987–1996 (H)", "file": "data/1987-1996_H.gexf" },
+  { "label": "1992–2001 (I)", "file": "data/1992-2001_I.gexf" }
+]
