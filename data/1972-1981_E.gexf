@@ -1,0 +1,1860 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-01-30">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Ay-O" label="Ay-O">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="180.07925" y="-373.33096"/>
+      </node>
+      <node id="小室至" label="小室至">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="378.63773" y="-345.46216"/>
+      </node>
+      <node id="中野武夫" label="中野武夫">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="366.1873" y="-320.85388"/>
+      </node>
+      <node id="オノサト・トシノブ" label="オノサト・トシノブ">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="229.97318" y="245.77563"/>
+      </node>
+      <node id="阿部展也" label="阿部展也">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="151.60648" y="210.758"/>
+      </node>
+      <node id="宇佐美圭司" label="宇佐美圭司">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-15.819184" y="388.9718"/>
+      </node>
+      <node id="横尾忠則" label="横尾忠則">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="73.300446" y="-181.98041"/>
+      </node>
+      <node id="岡鹿之助" label="岡鹿之助">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-128.3743" y="-159.42984"/>
+      </node>
+      <node id="岡田謙三" label="岡田謙三">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-190.67242" y="-222.75021"/>
+      </node>
+      <node id="岡本太郎" label="岡本太郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="321.07785" y="-137.96378"/>
+      </node>
+      <node id="加納光於" label="加納光於">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="285.4927" y="-41.48324"/>
+      </node>
+      <node id="河原温" label="河原温">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-187.48492" y="-372.59018"/>
+      </node>
+      <node id="関根伸夫" label="関根伸夫">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-9.07718" y="-477.17398"/>
+      </node>
+      <node id="吉原治良" label="吉原治良">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="70.45767" y="146.90338"/>
+      </node>
+      <node id="桂ゆき" label="桂ゆき">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-444.91174" y="370.3546"/>
+      </node>
+      <node id="建畠覚造" label="建畠覚造">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-204.62576" y="151.4007"/>
+      </node>
+      <node id="元永定正" label="元永定正">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="124.140656" y="-230.5506"/>
+      </node>
+      <node id="向井良吉" label="向井良吉">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="131.67618" y="-14.750544"/>
+      </node>
+      <node id="荒川修作" label="荒川修作">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-158.9574" y="-410.72852"/>
+      </node>
+      <node id="高松次郎" label="高松次郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-146.956" y="188.53107"/>
+      </node>
+      <node id="今井俊満" label="今井俊満">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-218.18607" y="83.38343"/>
+      </node>
+      <node id="斎藤義重" label="斎藤義重">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-190.69424" y="115.029366"/>
+      </node>
+      <node id="三木富雄" label="三木富雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="29.32144" y="227.23871"/>
+      </node>
+      <node id="山口勝弘" label="山口勝弘">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-476.18658" y="-371.59125"/>
+      </node>
+      <node id="山口長男" label="山口長男">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="176.39108" y="199.44855"/>
+      </node>
+      <node id="篠田守男" label="篠田守男">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-43.75885" y="-353.34705"/>
+      </node>
+      <node id="森芳雄" label="森芳雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="441.62234" y="-285.13672"/>
+      </node>
+      <node id="杉全直" label="杉全直">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="352.95444" y="63.60212"/>
+      </node>
+      <node id="菅井汲" label="菅井汲">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-245.86319" y="-433.07812"/>
+      </node>
+      <node id="川端実" label="川端実">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-204.42319" y="366.46777"/>
+      </node>
+      <node id="前田常作" label="前田常作">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-382.40585" y="-82.61446"/>
+      </node>
+      <node id="村井正誠" label="村井正誠">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-471.8936" y="89.491646"/>
+      </node>
+      <node id="池田満寿夫" label="池田満寿夫">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="299.15994" y="-416.51447"/>
+      </node>
+      <node id="中西夏之" label="中西夏之">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="393.9125" y="96.455635"/>
+      </node>
+      <node id="猪熊弦一郎" label="猪熊弦一郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-94.28784" y="-184.31964"/>
+      </node>
+      <node id="鶴岡政男" label="鶴岡政男">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-253.83307" y="-431.46228"/>
+      </node>
+      <node id="田中敦子" label="田中敦子">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="207.42416" y="-166.36896"/>
+      </node>
+      <node id="田淵安一" label="田淵安一">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="8.743621" y="489.04846"/>
+      </node>
+      <node id="堂本尚郎" label="堂本尚郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-352.0365" y="-306.33368"/>
+      </node>
+      <node id="難波田龍起" label="難波田龍起">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-340.6547" y="362.8714"/>
+      </node>
+      <node id="白髪一雄" label="白髪一雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-159.10223" y="-102.07436"/>
+      </node>
+      <node id="浜口陽三" label="浜口陽三">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-217.40793" y="-114.029686"/>
+      </node>
+      <node id="堀内正和" label="堀内正和">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-6.499788" y="-476.47"/>
+      </node>
+      <node id="麻生三郎" label="麻生三郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-501.96484" y="289.11407"/>
+      </node>
+      <node id="靉嘔" label="靉嘔">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="121.99893" y="-450.45398"/>
+      </node>
+      <node id="伊藤隆道" label="伊藤隆道">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-493.46606" y="120.0113"/>
+      </node>
+      <node id="多田美波" label="多田美波">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-373.58414" y="490.17163"/>
+      </node>
+      <node id="井上長三郎" label="井上長三郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-281.83847" y="299.3324"/>
+      </node>
+      <node id="香月泰男" label="香月泰男">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-221.50748" y="404.48718"/>
+      </node>
+      <node id="山口薫" label="山口薫">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="425.78085" y="388.64008"/>
+      </node>
+      <node id="井上武吉" label="井上武吉">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-57.198334" y="-153.7219"/>
+      </node>
+      <node id="井田照一" label="井田照一">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-229.34003" y="142.03455"/>
+      </node>
+      <node id="永井一正" label="永井一正">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-101.005035" y="341.85132"/>
+      </node>
+      <node id="黒崎彰" label="黒崎彰">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="309.97055" y="-421.63907"/>
+      </node>
+      <node id="今井祝雄" label="今井祝雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="462.23904" y="-460.57056"/>
+      </node>
+      <node id="桜井尚" label="桜井尚">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="340.74277" y="7.114874"/>
+      </node>
+      <node id="三尾公三" label="三尾公三">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-290.75677" y="260.62354"/>
+      </node>
+      <node id="松本旻" label="松本旻">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="260.82285" y="-331.2785"/>
+      </node>
+      <node id="上田薫" label="上田薫">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-491.11588" y="302.6457"/>
+      </node>
+      <node id="上矢津" label="上矢津">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-345.39075" y="-91.34844"/>
+      </node>
+      <node id="森岡完介" label="森岡完介">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-270.71594" y="-10.658899"/>
+      </node>
+      <node id="斉藤智" label="斉藤智">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-20.181826" y="94.878"/>
+      </node>
+      <node id="泉茂" label="泉茂">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="447.30093" y="149.77936"/>
+      </node>
+      <node id="田辺和郎" label="田辺和郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-298.74387" y="-190.5346"/>
+      </node>
+      <node id="島州一" label="島州一">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-278.2598" y="415.06134"/>
+      </node>
+      <node id="二村裕子" label="二村裕子">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="468.55405" y="197.62347"/>
+      </node>
+      <node id="浜口行雄" label="浜口行雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="8.199431" y="467.161"/>
+      </node>
+      <node id="浜田浄" label="浜田浄">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="467.04416" y="-258.65533"/>
+      </node>
+      <node id="浜野年宏" label="浜野年宏">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="91.30917" y="148.0357"/>
+      </node>
+      <node id="福田繁雄" label="福田繁雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="384.436" y="139.78601"/>
+      </node>
+      <node id="本田眞吾" label="本田眞吾">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="489.23428" y="142.90302"/>
+      </node>
+      <node id="木村光佑" label="木村光佑">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-469.3226" y="424.84283"/>
+      </node>
+      <node id="木村秀樹" label="木村秀樹">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-354.3485" y="288.4953"/>
+      </node>
+      <node id="野田哲也" label="野田哲也">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-475.6409" y="-82.097374"/>
+      </node>
+      <node id="林鉅" label="林鉅">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-133.97855" y="425.26843"/>
+      </node>
+      <node id="若林奮" label="若林奮">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-383.7485" y="142.55524"/>
+      </node>
+      <node id="田中信太郎" label="田中信太郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-122.175964" y="111.95435"/>
+      </node>
+      <node id="下谷千尋" label="下谷千尋">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="159.03677" y="348.0752"/>
+      </node>
+      <node id="脇田愛二郎" label="脇田愛二郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="98.52774" y="451.5111"/>
+      </node>
+      <node id="永井一正*" label="永井一正*">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-47.973297" y="-130.21893"/>
+      </node>
+      <node id="木村光佑*" label="木村光佑*">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="180.41537" y="-260.56134"/>
+      </node>
+      <node id="靉嘔*" label="靉嘔*">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="190.63272" y="154.9151"/>
+      </node>
+      <node id="瑛九" label="瑛九">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="167.99045" y="-361.40692"/>
+      </node>
+      <node id="榎倉康二" label="榎倉康二">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-467.4174" y="-83.523155"/>
+      </node>
+      <node id="菅木志雄" label="菅木志雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-348.46127" y="109.04389"/>
+      </node>
+      <node id="吉原英雄" label="吉原英雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="356.35214" y="-457.518"/>
+      </node>
+      <node id="糸園和三郎" label="糸園和三郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-370.4769" y="377.1861"/>
+      </node>
+      <node id="岡田博" label="岡田博">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-367.98975" y="-415.59235"/>
+      </node>
+      <node id="福沢一郎" label="福沢一郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="402.83926" y="-184.7692"/>
+      </node>
+      <node id="角永和夫" label="角永和夫">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-49.351196" y="-123.87585"/>
+      </node>
+      <node id="原健" label="原健">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-284.43668" y="-279.63776"/>
+      </node>
+      <node id="山本衛士" label="山本衛士">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="165.79819" y="-406.59766"/>
+      </node>
+      <node id="小田襄" label="小田襄">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-470.3282" y="-367.73587"/>
+      </node>
+      <node id="森秀雄" label="森秀雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-211.2959" y="354.12512"/>
+      </node>
+      <node id="青山光佑" label="青山光佑">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="275.31912" y="8.38175"/>
+      </node>
+      <node id="加山又造" label="加山又造">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-250.93143" y="280.61908"/>
+      </node>
+      <node id="岩橋英遠" label="岩橋英遠">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="153.60501" y="-211.79999"/>
+      </node>
+      <node id="東山魁夷" label="東山魁夷">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="383.83444" y="-201.93555"/>
+      </node>
+      <node id="平山郁夫" label="平山郁夫">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="85.37039" y="-379.0175"/>
+      </node>
+      <node id="髙山辰雄" label="髙山辰雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-451.18036" y="-173.27289"/>
+      </node>
+      <node id="桑山忠明" label="桑山忠明">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="197.4086" y="305.82953"/>
+      </node>
+      <node id="清水九兵衛" label="清水九兵衛">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-438.51715" y="-59.202232"/>
+      </node>
+      <node id="萩原英雄" label="萩原英雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="316.5811" y="298.57855"/>
+      </node>
+      <node id="飯田善國" label="飯田善國">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="277.83078" y="12.91181"/>
+      </node>
+      <node id="李禹煥" label="李禹煥">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-197.32007" y="-23.016443"/>
+      </node>
+      <node id="河口龍夫" label="河口龍夫">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-17.548616" y="-159.03754"/>
+      </node>
+      <node id="植松奎二" label="植松奎二">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="192.47855" y="-276.2264"/>
+      </node>
+      <node id="海老原喜之助" label="海老原喜之助">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-72.11362" y="262.60822"/>
+      </node>
+      <node id="鳥海青児" label="鳥海青児">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-449.73447" y="-213.39355"/>
+      </node>
+      <node id="林武" label="林武">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="298.03073" y="302.91614"/>
+      </node>
+      <node id="望月菊磨" label="望月菊磨">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="124.25699" y="304.59546"/>
+      </node>
+      <node id="保田春彦" label="保田春彦">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="89.97507" y="-28.129877"/>
+      </node>
+      <node id="豊福知徳" label="豊福知徳">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-106.365234" y="-146.99689"/>
+      </node>
+      <node id="津高和一" label="津高和一">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-90.31723" y="431.01288"/>
+      </node>
+      <node id="吉田穂高" label="吉田穂高">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-142.44003" y="350.85822"/>
+      </node>
+      <node id="福岡道雄" label="福岡道雄">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-40.88025" y="382.2804"/>
+      </node>
+      <node id="吾妻兼治郎" label="吾妻兼治郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="465.36105" y="200.66748"/>
+      </node>
+      <node id="辻晉堂" label="辻晉堂">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-444.06738" y="-302.87573"/>
+      </node>
+      <node id="木村賢太郎" label="木村賢太郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="416.19968" y="85.05787"/>
+      </node>
+      <node id="北脇昇" label="北脇昇">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="371.49582" y="500.30957"/>
+      </node>
+      <node id="高橋秀" label="高橋秀">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="166.8674" y="-67.902855"/>
+      </node>
+      <node id="山口牧生" label="山口牧生">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="199.12674" y="150.31165"/>
+      </node>
+      <node id="矢柳剛" label="矢柳剛">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-122.03204" y="179.20801"/>
+      </node>
+      <node id="最上壽之" label="最上壽之">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="471.49283" y="-182.97229"/>
+      </node>
+      <node id="斎藤智" label="斎藤智">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="201.5925" y="-384.99847"/>
+      </node>
+      <node id="脇田和" label="脇田和">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-65.28754" y="-352.4452"/>
+      </node>
+      <node id="篠原有司男" label="篠原有司男">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="267.69583" y="-240.97807"/>
+      </node>
+      <node id="植木茂" label="植木茂">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-143.6235" y="-167.92273"/>
+      </node>
+      <node id="若江漢字" label="若江漢字">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="461.73306" y="-48.69094"/>
+      </node>
+      <node id="秋元幸茂" label="秋元幸茂">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-104.30386" y="234.44489"/>
+      </node>
+      <node id="小清水漸" label="小清水漸">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="102.718475" y="66.84644"/>
+      </node>
+      <node id="新宮晋" label="新宮晋">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="296.20676" y="-364.1881"/>
+      </node>
+      <node id="村岡三郎" label="村岡三郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-71.28046" y="44.380135"/>
+      </node>
+      <node id="浜田知明" label="浜田知明">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="374.93588" y="54.746346"/>
+      </node>
+      <node id="木内克" label="木内克">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="375.9003" y="224.75519"/>
+      </node>
+      <node id="柳原義達" label="柳原義達">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="376.66898" y="53.508247"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="2371" source="Ay-O" target="小室至" weight="5.0"/>
+      <edge id="2372" source="Ay-O" target="中野武夫" weight="5.0"/>
+      <edge id="2373" source="オノサト・トシノブ" target="阿部展也" weight="5.0"/>
+      <edge id="2374" source="オノサト・トシノブ" target="宇佐美圭司" weight="7.0"/>
+      <edge id="2375" source="オノサト・トシノブ" target="横尾忠則" weight="5.0"/>
+      <edge id="2376" source="オノサト・トシノブ" target="岡鹿之助" weight="5.0"/>
+      <edge id="2377" source="オノサト・トシノブ" target="岡田謙三" weight="5.0"/>
+      <edge id="2378" source="オノサト・トシノブ" target="岡本太郎" weight="6.0"/>
+      <edge id="2379" source="オノサト・トシノブ" target="加納光於" weight="10.0"/>
+      <edge id="2380" source="オノサト・トシノブ" target="河原温" weight="6.0"/>
+      <edge id="2381" source="オノサト・トシノブ" target="関根伸夫" weight="6.0"/>
+      <edge id="2382" source="オノサト・トシノブ" target="吉原治良" weight="9.0"/>
+      <edge id="2383" source="オノサト・トシノブ" target="桂ゆき" weight="5.0"/>
+      <edge id="2384" source="オノサト・トシノブ" target="建畠覚造" weight="6.0"/>
+      <edge id="2385" source="オノサト・トシノブ" target="元永定正" weight="9.0"/>
+      <edge id="2386" source="オノサト・トシノブ" target="向井良吉" weight="5.0"/>
+      <edge id="2387" source="オノサト・トシノブ" target="荒川修作" weight="9.0"/>
+      <edge id="2388" source="オノサト・トシノブ" target="高松次郎" weight="8.0"/>
+      <edge id="2389" source="オノサト・トシノブ" target="今井俊満" weight="8.0"/>
+      <edge id="2390" source="オノサト・トシノブ" target="斎藤義重" weight="12.0"/>
+      <edge id="2391" source="オノサト・トシノブ" target="三木富雄" weight="5.0"/>
+      <edge id="2392" source="オノサト・トシノブ" target="山口勝弘" weight="5.0"/>
+      <edge id="2393" source="オノサト・トシノブ" target="山口長男" weight="12.0"/>
+      <edge id="2394" source="オノサト・トシノブ" target="篠田守男" weight="7.0"/>
+      <edge id="2395" source="オノサト・トシノブ" target="森芳雄" weight="5.0"/>
+      <edge id="2396" source="オノサト・トシノブ" target="杉全直" weight="6.0"/>
+      <edge id="2397" source="オノサト・トシノブ" target="菅井汲" weight="9.0"/>
+      <edge id="2398" source="オノサト・トシノブ" target="川端実" weight="7.0"/>
+      <edge id="2399" source="オノサト・トシノブ" target="前田常作" weight="8.0"/>
+      <edge id="2400" source="オノサト・トシノブ" target="村井正誠" weight="9.0"/>
+      <edge id="2401" source="オノサト・トシノブ" target="池田満寿夫" weight="9.0"/>
+      <edge id="2402" source="オノサト・トシノブ" target="中西夏之" weight="7.0"/>
+      <edge id="2403" source="オノサト・トシノブ" target="猪熊弦一郎" weight="5.0"/>
+      <edge id="2404" source="オノサト・トシノブ" target="鶴岡政男" weight="5.0"/>
+      <edge id="2405" source="オノサト・トシノブ" target="田中敦子" weight="5.0"/>
+      <edge id="2406" source="オノサト・トシノブ" target="田淵安一" weight="5.0"/>
+      <edge id="2407" source="オノサト・トシノブ" target="堂本尚郎" weight="12.0"/>
+      <edge id="2408" source="オノサト・トシノブ" target="難波田龍起" weight="8.0"/>
+      <edge id="2409" source="オノサト・トシノブ" target="白髪一雄" weight="8.0"/>
+      <edge id="2410" source="オノサト・トシノブ" target="浜口陽三" weight="5.0"/>
+      <edge id="2411" source="オノサト・トシノブ" target="堀内正和" weight="6.0"/>
+      <edge id="2412" source="オノサト・トシノブ" target="麻生三郎" weight="5.0"/>
+      <edge id="2413" source="オノサト・トシノブ" target="靉嘔" weight="8.0"/>
+      <edge id="2414" source="阿部展也" target="岡本太郎" weight="5.0"/>
+      <edge id="2415" source="阿部展也" target="吉原治良" weight="5.0"/>
+      <edge id="2416" source="阿部展也" target="今井俊満" weight="5.0"/>
+      <edge id="2417" source="阿部展也" target="斎藤義重" weight="6.0"/>
+      <edge id="2418" source="阿部展也" target="山口長男" weight="6.0"/>
+      <edge id="2419" source="阿部展也" target="菅井汲" weight="5.0"/>
+      <edge id="2420" source="阿部展也" target="川端実" weight="5.0"/>
+      <edge id="2421" source="阿部展也" target="村井正誠" weight="6.0"/>
+      <edge id="2422" source="伊藤隆道" target="横尾忠則" weight="5.0"/>
+      <edge id="2423" source="伊藤隆道" target="篠田守男" weight="5.0"/>
+      <edge id="2424" source="伊藤隆道" target="多田美波" weight="5.0"/>
+      <edge id="2425" source="井上長三郎" target="香月泰男" weight="5.0"/>
+      <edge id="2426" source="井上長三郎" target="山口薫" weight="5.0"/>
+      <edge id="2427" source="井上長三郎" target="村井正誠" weight="5.0"/>
+      <edge id="2428" source="井上長三郎" target="鶴岡政男" weight="5.0"/>
+      <edge id="2429" source="井上長三郎" target="麻生三郎" weight="5.0"/>
+      <edge id="2430" source="井上武吉" target="山口勝弘" weight="5.0"/>
+      <edge id="2431" source="井上武吉" target="篠田守男" weight="5.0"/>
+      <edge id="2432" source="井田照一" target="永井一正" weight="6.0"/>
+      <edge id="2433" source="井田照一" target="高松次郎" weight="5.0"/>
+      <edge id="2434" source="井田照一" target="黒崎彰" weight="9.0"/>
+      <edge id="2435" source="井田照一" target="今井祝雄" weight="5.0"/>
+      <edge id="2436" source="井田照一" target="桜井尚" weight="6.0"/>
+      <edge id="2437" source="井田照一" target="三尾公三" weight="6.0"/>
+      <edge id="2438" source="井田照一" target="小室至" weight="6.0"/>
+      <edge id="2439" source="井田照一" target="松本旻" weight="9.0"/>
+      <edge id="2440" source="井田照一" target="上田薫" weight="6.0"/>
+      <edge id="2441" source="井田照一" target="上矢津" weight="5.0"/>
+      <edge id="2442" source="井田照一" target="森岡完介" weight="5.0"/>
+      <edge id="2443" source="井田照一" target="斉藤智" weight="5.0"/>
+      <edge id="2444" source="井田照一" target="泉茂" weight="5.0"/>
+      <edge id="2445" source="井田照一" target="中野武夫" weight="6.0"/>
+      <edge id="2446" source="井田照一" target="田辺和郎" weight="5.0"/>
+      <edge id="2447" source="井田照一" target="島州一" weight="6.0"/>
+      <edge id="2448" source="井田照一" target="堂本尚郎" weight="5.0"/>
+      <edge id="2449" source="井田照一" target="二村裕子" weight="5.0"/>
+      <edge id="2450" source="井田照一" target="浜口行雄" weight="5.0"/>
+      <edge id="2451" source="井田照一" target="浜田浄" weight="5.0"/>
+      <edge id="2452" source="井田照一" target="浜野年宏" weight="6.0"/>
+      <edge id="2453" source="井田照一" target="福田繁雄" weight="5.0"/>
+      <edge id="2454" source="井田照一" target="本田眞吾" weight="5.0"/>
+      <edge id="2455" source="井田照一" target="木村光佑" weight="8.0"/>
+      <edge id="2456" source="井田照一" target="木村秀樹" weight="7.0"/>
+      <edge id="2457" source="井田照一" target="野田哲也" weight="5.0"/>
+      <edge id="2458" source="井田照一" target="林鉅" weight="6.0"/>
+      <edge id="2459" source="井田照一" target="靉嘔" weight="8.0"/>
+      <edge id="2460" source="宇佐美圭司" target="横尾忠則" weight="6.0"/>
+      <edge id="2461" source="宇佐美圭司" target="加納光於" weight="8.0"/>
+      <edge id="2462" source="宇佐美圭司" target="関根伸夫" weight="6.0"/>
+      <edge id="2463" source="宇佐美圭司" target="元永定正" weight="7.0"/>
+      <edge id="2464" source="宇佐美圭司" target="荒川修作" weight="6.0"/>
+      <edge id="2465" source="宇佐美圭司" target="高松次郎" weight="11.0"/>
+      <edge id="2466" source="宇佐美圭司" target="斎藤義重" weight="7.0"/>
+      <edge id="2467" source="宇佐美圭司" target="三尾公三" weight="7.0"/>
+      <edge id="2468" source="宇佐美圭司" target="山口勝弘" weight="5.0"/>
+      <edge id="2469" source="宇佐美圭司" target="山口長男" weight="7.0"/>
+      <edge id="2470" source="宇佐美圭司" target="篠田守男" weight="5.0"/>
+      <edge id="2471" source="宇佐美圭司" target="若林奮" weight="5.0"/>
+      <edge id="2472" source="宇佐美圭司" target="菅井汲" weight="7.0"/>
+      <edge id="2473" source="宇佐美圭司" target="池田満寿夫" weight="8.0"/>
+      <edge id="2474" source="宇佐美圭司" target="中西夏之" weight="7.0"/>
+      <edge id="2475" source="宇佐美圭司" target="田中信太郎" weight="5.0"/>
+      <edge id="2476" source="宇佐美圭司" target="堂本尚郎" weight="7.0"/>
+      <edge id="2477" source="宇佐美圭司" target="白髪一雄" weight="5.0"/>
+      <edge id="2478" source="宇佐美圭司" target="堀内正和" weight="5.0"/>
+      <edge id="2479" source="宇佐美圭司" target="野田哲也" weight="7.0"/>
+      <edge id="2480" source="宇佐美圭司" target="靉嘔" weight="8.0"/>
+      <edge id="2481" source="永井一正" target="横尾忠則" weight="5.0"/>
+      <edge id="2482" source="永井一正" target="下谷千尋" weight="7.0"/>
+      <edge id="2483" source="永井一正" target="高松次郎" weight="5.0"/>
+      <edge id="2484" source="永井一正" target="黒崎彰" weight="6.0"/>
+      <edge id="2485" source="永井一正" target="松本旻" weight="6.0"/>
+      <edge id="2486" source="永井一正" target="島州一" weight="6.0"/>
+      <edge id="2487" source="永井一正" target="堂本尚郎" weight="5.0"/>
+      <edge id="2488" source="永井一正" target="二村裕子" weight="6.0"/>
+      <edge id="2489" source="永井一正" target="福田繁雄" weight="7.0"/>
+      <edge id="2490" source="永井一正" target="木村光佑" weight="12.0"/>
+      <edge id="2491" source="永井一正" target="野田哲也" weight="7.0"/>
+      <edge id="2492" source="永井一正" target="脇田愛二郎" weight="5.0"/>
+      <edge id="2493" source="永井一正" target="靉嘔" weight="9.0"/>
+      <edge id="2494" source="永井一正*" target="今井祝雄" weight="5.0"/>
+      <edge id="2495" source="永井一正*" target="松本旻" weight="5.0"/>
+      <edge id="2496" source="永井一正*" target="上田薫" weight="5.0"/>
+      <edge id="2497" source="永井一正*" target="中野武夫" weight="6.0"/>
+      <edge id="2498" source="永井一正*" target="木村光佑*" weight="6.0"/>
+      <edge id="2499" source="永井一正*" target="靉嘔*" weight="6.0"/>
+      <edge id="2500" source="瑛九" target="吉原治良" weight="5.0"/>
+      <edge id="2501" source="瑛九" target="今井俊満" weight="5.0"/>
+      <edge id="2502" source="瑛九" target="斎藤義重" weight="5.0"/>
+      <edge id="2503" source="瑛九" target="山口長男" weight="5.0"/>
+      <edge id="2504" source="瑛九" target="川端実" weight="5.0"/>
+      <edge id="2505" source="瑛九" target="村井正誠" weight="5.0"/>
+      <edge id="2506" source="榎倉康二" target="高松次郎" weight="7.0"/>
+      <edge id="2507" source="榎倉康二" target="菅木志雄" weight="5.0"/>
+      <edge id="2508" source="榎倉康二" target="島州一" weight="6.0"/>
+      <edge id="2509" source="榎倉康二" target="野田哲也" weight="6.0"/>
+      <edge id="2510" source="榎倉康二" target="靉嘔" weight="6.0"/>
+      <edge id="2511" source="横尾忠則" target="加納光於" weight="8.0"/>
+      <edge id="2512" source="横尾忠則" target="関根伸夫" weight="5.0"/>
+      <edge id="2513" source="横尾忠則" target="吉原英雄" weight="5.0"/>
+      <edge id="2514" source="横尾忠則" target="元永定正" weight="5.0"/>
+      <edge id="2515" source="横尾忠則" target="荒川修作" weight="5.0"/>
+      <edge id="2516" source="横尾忠則" target="高松次郎" weight="8.0"/>
+      <edge id="2517" source="横尾忠則" target="篠田守男" weight="8.0"/>
+      <edge id="2518" source="横尾忠則" target="菅井汲" weight="9.0"/>
+      <edge id="2519" source="横尾忠則" target="多田美波" weight="6.0"/>
+      <edge id="2520" source="横尾忠則" target="池田満寿夫" weight="8.0"/>
+      <edge id="2521" source="横尾忠則" target="中西夏之" weight="6.0"/>
+      <edge id="2522" source="横尾忠則" target="田中信太郎" weight="6.0"/>
+      <edge id="2523" source="横尾忠則" target="堂本尚郎" weight="6.0"/>
+      <edge id="2524" source="横尾忠則" target="福田繁雄" weight="5.0"/>
+      <edge id="2525" source="横尾忠則" target="木村光佑" weight="7.0"/>
+      <edge id="2526" source="横尾忠則" target="野田哲也" weight="5.0"/>
+      <edge id="2527" source="横尾忠則" target="脇田愛二郎" weight="7.0"/>
+      <edge id="2528" source="横尾忠則" target="靉嘔" weight="8.0"/>
+      <edge id="2529" source="岡鹿之助" target="吉原治良" weight="5.0"/>
+      <edge id="2530" source="岡鹿之助" target="斎藤義重" weight="5.0"/>
+      <edge id="2531" source="岡鹿之助" target="山口長男" weight="6.0"/>
+      <edge id="2532" source="岡鹿之助" target="糸園和三郎" weight="5.0"/>
+      <edge id="2533" source="岡鹿之助" target="森芳雄" weight="5.0"/>
+      <edge id="2534" source="岡鹿之助" target="菅井汲" weight="5.0"/>
+      <edge id="2535" source="岡鹿之助" target="村井正誠" weight="5.0"/>
+      <edge id="2536" source="岡田謙三" target="吉原治良" weight="6.0"/>
+      <edge id="2537" source="岡田謙三" target="今井俊満" weight="5.0"/>
+      <edge id="2538" source="岡田謙三" target="斎藤義重" weight="6.0"/>
+      <edge id="2539" source="岡田謙三" target="山口長男" weight="6.0"/>
+      <edge id="2540" source="岡田謙三" target="菅井汲" weight="7.0"/>
+      <edge id="2541" source="岡田謙三" target="川端実" weight="6.0"/>
+      <edge id="2542" source="岡田謙三" target="前田常作" weight="5.0"/>
+      <edge id="2543" source="岡田謙三" target="村井正誠" weight="6.0"/>
+      <edge id="2544" source="岡田謙三" target="猪熊弦一郎" weight="6.0"/>
+      <edge id="2545" source="岡田謙三" target="堂本尚郎" weight="5.0"/>
+      <edge id="2546" source="岡田博" target="今井祝雄" weight="5.0"/>
+      <edge id="2547" source="岡本太郎" target="加納光於" weight="5.0"/>
+      <edge id="2548" source="岡本太郎" target="吉原治良" weight="6.0"/>
+      <edge id="2549" source="岡本太郎" target="建畠覚造" weight="5.0"/>
+      <edge id="2550" source="岡本太郎" target="元永定正" weight="6.0"/>
+      <edge id="2551" source="岡本太郎" target="香月泰男" weight="5.0"/>
+      <edge id="2552" source="岡本太郎" target="今井俊満" weight="7.0"/>
+      <edge id="2553" source="岡本太郎" target="斎藤義重" weight="7.0"/>
+      <edge id="2554" source="岡本太郎" target="山口薫" weight="5.0"/>
+      <edge id="2555" source="岡本太郎" target="山口長男" weight="6.0"/>
+      <edge id="2556" source="岡本太郎" target="森芳雄" weight="6.0"/>
+      <edge id="2557" source="岡本太郎" target="杉全直" weight="7.0"/>
+      <edge id="2558" source="岡本太郎" target="菅井汲" weight="5.0"/>
+      <edge id="2559" source="岡本太郎" target="川端実" weight="6.0"/>
+      <edge id="2560" source="岡本太郎" target="前田常作" weight="6.0"/>
+      <edge id="2561" source="岡本太郎" target="村井正誠" weight="9.0"/>
+      <edge id="2562" source="岡本太郎" target="鶴岡政男" weight="6.0"/>
+      <edge id="2563" source="岡本太郎" target="堂本尚郎" weight="7.0"/>
+      <edge id="2564" source="岡本太郎" target="難波田龍起" weight="5.0"/>
+      <edge id="2565" source="岡本太郎" target="白髪一雄" weight="5.0"/>
+      <edge id="2566" source="岡本太郎" target="福沢一郎" weight="6.0"/>
+      <edge id="2567" source="岡本太郎" target="麻生三郎" weight="7.0"/>
+      <edge id="2568" source="下谷千尋" target="角永和夫" weight="5.0"/>
+      <edge id="2569" source="下谷千尋" target="原健" weight="6.0"/>
+      <edge id="2570" source="下谷千尋" target="黒崎彰" weight="6.0"/>
+      <edge id="2571" source="下谷千尋" target="今井祝雄" weight="5.0"/>
+      <edge id="2572" source="下谷千尋" target="山本衛士" weight="5.0"/>
+      <edge id="2573" source="下谷千尋" target="小田襄" weight="5.0"/>
+      <edge id="2574" source="下谷千尋" target="松本旻" weight="7.0"/>
+      <edge id="2575" source="下谷千尋" target="上田薫" weight="6.0"/>
+      <edge id="2576" source="下谷千尋" target="森秀雄" weight="6.0"/>
+      <edge id="2577" source="下谷千尋" target="青山光佑" weight="5.0"/>
+      <edge id="2578" source="下谷千尋" target="中野武夫" weight="6.0"/>
+      <edge id="2579" source="下谷千尋" target="島州一" weight="8.0"/>
+      <edge id="2580" source="下谷千尋" target="二村裕子" weight="8.0"/>
+      <edge id="2581" source="下谷千尋" target="木村光佑" weight="8.0"/>
+      <edge id="2582" source="下谷千尋" target="靉嘔" weight="5.0"/>
+      <edge id="2583" source="加山又造" target="河原温" weight="5.0"/>
+      <edge id="2584" source="加山又造" target="岩橋英遠" weight="5.0"/>
+      <edge id="2585" source="加山又造" target="高松次郎" weight="6.0"/>
+      <edge id="2586" source="加山又造" target="三尾公三" weight="5.0"/>
+      <edge id="2587" source="加山又造" target="池田満寿夫" weight="6.0"/>
+      <edge id="2588" source="加山又造" target="東山魁夷" weight="6.0"/>
+      <edge id="2589" source="加山又造" target="堂本尚郎" weight="5.0"/>
+      <edge id="2590" source="加山又造" target="平山郁夫" weight="5.0"/>
+      <edge id="2591" source="加山又造" target="髙山辰雄" weight="5.0"/>
+      <edge id="2592" source="加納光於" target="関根伸夫" weight="7.0"/>
+      <edge id="2593" source="加納光於" target="吉原英雄" weight="6.0"/>
+      <edge id="2594" source="加納光於" target="吉原治良" weight="5.0"/>
+      <edge id="2595" source="加納光於" target="桑山忠明" weight="5.0"/>
+      <edge id="2596" source="加納光於" target="建畠覚造" weight="6.0"/>
+      <edge id="2597" source="加納光於" target="元永定正" weight="9.0"/>
+      <edge id="2598" source="加納光於" target="荒川修作" weight="9.0"/>
+      <edge id="2599" source="加納光於" target="高松次郎" weight="12.0"/>
+      <edge id="2600" source="加納光於" target="今井俊満" weight="6.0"/>
+      <edge id="2601" source="加納光於" target="斎藤義重" weight="9.0"/>
+      <edge id="2602" source="加納光於" target="三尾公三" weight="5.0"/>
+      <edge id="2603" source="加納光於" target="三木富雄" weight="5.0"/>
+      <edge id="2604" source="加納光於" target="山口勝弘" weight="5.0"/>
+      <edge id="2605" source="加納光於" target="山口長男" weight="9.0"/>
+      <edge id="2606" source="加納光於" target="篠田守男" weight="8.0"/>
+      <edge id="2607" source="加納光於" target="若林奮" weight="5.0"/>
+      <edge id="2608" source="加納光於" target="松本旻" weight="5.0"/>
+      <edge id="2609" source="加納光於" target="杉全直" weight="5.0"/>
+      <edge id="2610" source="加納光於" target="菅井汲" weight="9.0"/>
+      <edge id="2611" source="加納光於" target="清水九兵衛" weight="5.0"/>
+      <edge id="2612" source="加納光於" target="前田常作" weight="8.0"/>
+      <edge id="2613" source="加納光於" target="村井正誠" weight="6.0"/>
+      <edge id="2614" source="加納光於" target="多田美波" weight="6.0"/>
+      <edge id="2615" source="加納光於" target="池田満寿夫" weight="12.0"/>
+      <edge id="2616" source="加納光於" target="中西夏之" weight="10.0"/>
+      <edge id="2617" source="加納光於" target="田中信太郎" weight="6.0"/>
+      <edge id="2618" source="加納光於" target="田中敦子" weight="5.0"/>
+      <edge id="2619" source="加納光於" target="田淵安一" weight="6.0"/>
+      <edge id="2620" source="加納光於" target="堂本尚郎" weight="11.0"/>
+      <edge id="2621" source="加納光於" target="萩原英雄" weight="5.0"/>
+      <edge id="2622" source="加納光於" target="白髪一雄" weight="7.0"/>
+      <edge id="2623" source="加納光於" target="飯田善國" weight="6.0"/>
+      <edge id="2624" source="加納光於" target="浜口陽三" weight="6.0"/>
+      <edge id="2625" source="加納光於" target="堀内正和" weight="5.0"/>
+      <edge id="2626" source="加納光於" target="木村光佑" weight="5.0"/>
+      <edge id="2627" source="加納光於" target="野田哲也" weight="6.0"/>
+      <edge id="2628" source="加納光於" target="李禹煥" weight="6.0"/>
+      <edge id="2629" source="加納光於" target="靉嘔" weight="12.0"/>
+      <edge id="2630" source="河原温" target="元永定正" weight="5.0"/>
+      <edge id="2631" source="河原温" target="高松次郎" weight="5.0"/>
+      <edge id="2632" source="河原温" target="斎藤義重" weight="5.0"/>
+      <edge id="2633" source="河原温" target="山口長男" weight="6.0"/>
+      <edge id="2634" source="河原温" target="池田満寿夫" weight="7.0"/>
+      <edge id="2635" source="河原温" target="堂本尚郎" weight="6.0"/>
+      <edge id="2636" source="河原温" target="麻生三郎" weight="5.0"/>
+      <edge id="2637" source="河原温" target="靉嘔" weight="5.0"/>
+      <edge id="2638" source="河口龍夫" target="関根伸夫" weight="5.0"/>
+      <edge id="2639" source="河口龍夫" target="高松次郎" weight="5.0"/>
+      <edge id="2640" source="河口龍夫" target="上田薫" weight="5.0"/>
+      <edge id="2641" source="河口龍夫" target="植松奎二" weight="5.0"/>
+      <edge id="2642" source="河口龍夫" target="中西夏之" weight="5.0"/>
+      <edge id="2643" source="河口龍夫" target="飯田善國" weight="5.0"/>
+      <edge id="2644" source="河口龍夫" target="木村光佑" weight="5.0"/>
+      <edge id="2645" source="海老原喜之助" target="香月泰男" weight="5.0"/>
+      <edge id="2646" source="海老原喜之助" target="山口薫" weight="5.0"/>
+      <edge id="2647" source="海老原喜之助" target="糸園和三郎" weight="5.0"/>
+      <edge id="2648" source="海老原喜之助" target="鳥海青児" weight="5.0"/>
+      <edge id="2649" source="海老原喜之助" target="鶴岡政男" weight="5.0"/>
+      <edge id="2650" source="海老原喜之助" target="林武" weight="5.0"/>
+      <edge id="2651" source="角永和夫" target="今井祝雄" weight="7.0"/>
+      <edge id="2652" source="角永和夫" target="小田襄" weight="5.0"/>
+      <edge id="2653" source="角永和夫" target="松本旻" weight="6.0"/>
+      <edge id="2654" source="角永和夫" target="上田薫" weight="6.0"/>
+      <edge id="2655" source="角永和夫" target="青山光佑" weight="5.0"/>
+      <edge id="2656" source="角永和夫" target="中野武夫" weight="6.0"/>
+      <edge id="2657" source="角永和夫" target="島州一" weight="5.0"/>
+      <edge id="2658" source="角永和夫" target="二村裕子" weight="6.0"/>
+      <edge id="2659" source="角永和夫" target="望月菊磨" weight="5.0"/>
+      <edge id="2660" source="関根伸夫" target="吉原英雄" weight="5.0"/>
+      <edge id="2661" source="関根伸夫" target="元永定正" weight="5.0"/>
+      <edge id="2662" source="関根伸夫" target="向井良吉" weight="5.0"/>
+      <edge id="2663" source="関根伸夫" target="荒川修作" weight="5.0"/>
+      <edge id="2664" source="関根伸夫" target="高松次郎" weight="8.0"/>
+      <edge id="2665" source="関根伸夫" target="斎藤義重" weight="6.0"/>
+      <edge id="2666" source="関根伸夫" target="三木富雄" weight="7.0"/>
+      <edge id="2667" source="関根伸夫" target="山口勝弘" weight="6.0"/>
+      <edge id="2668" source="関根伸夫" target="山口長男" weight="6.0"/>
+      <edge id="2669" source="関根伸夫" target="篠田守男" weight="8.0"/>
+      <edge id="2670" source="関根伸夫" target="菅井汲" weight="8.0"/>
+      <edge id="2671" source="関根伸夫" target="清水九兵衛" weight="6.0"/>
+      <edge id="2672" source="関根伸夫" target="多田美波" weight="5.0"/>
+      <edge id="2673" source="関根伸夫" target="池田満寿夫" weight="7.0"/>
+      <edge id="2674" source="関根伸夫" target="中西夏之" weight="7.0"/>
+      <edge id="2675" source="関根伸夫" target="田中信太郎" weight="5.0"/>
+      <edge id="2676" source="関根伸夫" target="堂本尚郎" weight="7.0"/>
+      <edge id="2677" source="関根伸夫" target="飯田善國" weight="8.0"/>
+      <edge id="2678" source="関根伸夫" target="保田春彦" weight="8.0"/>
+      <edge id="2679" source="関根伸夫" target="豊福知徳" weight="7.0"/>
+      <edge id="2680" source="関根伸夫" target="堀内正和" weight="5.0"/>
+      <edge id="2681" source="関根伸夫" target="靉嘔" weight="8.0"/>
+      <edge id="2682" source="吉原英雄" target="高松次郎" weight="7.0"/>
+      <edge id="2683" source="吉原英雄" target="松本旻" weight="5.0"/>
+      <edge id="2684" source="吉原英雄" target="池田満寿夫" weight="8.0"/>
+      <edge id="2685" source="吉原英雄" target="木村光佑" weight="5.0"/>
+      <edge id="2686" source="吉原英雄" target="靉嘔" weight="8.0"/>
+      <edge id="2687" source="吉原治良" target="建畠覚造" weight="5.0"/>
+      <edge id="2688" source="吉原治良" target="元永定正" weight="7.0"/>
+      <edge id="2689" source="吉原治良" target="向井良吉" weight="5.0"/>
+      <edge id="2690" source="吉原治良" target="荒川修作" weight="6.0"/>
+      <edge id="2691" source="吉原治良" target="香月泰男" weight="5.0"/>
+      <edge id="2692" source="吉原治良" target="今井俊満" weight="8.0"/>
+      <edge id="2693" source="吉原治良" target="斎藤義重" weight="10.0"/>
+      <edge id="2694" source="吉原治良" target="山口薫" weight="5.0"/>
+      <edge id="2695" source="吉原治良" target="山口長男" weight="9.0"/>
+      <edge id="2696" source="吉原治良" target="篠田守男" weight="6.0"/>
+      <edge id="2697" source="吉原治良" target="森芳雄" weight="5.0"/>
+      <edge id="2698" source="吉原治良" target="杉全直" weight="6.0"/>
+      <edge id="2699" source="吉原治良" target="菅井汲" weight="8.0"/>
+      <edge id="2700" source="吉原治良" target="川端実" weight="8.0"/>
+      <edge id="2701" source="吉原治良" target="前田常作" weight="8.0"/>
+      <edge id="2702" source="吉原治良" target="村井正誠" weight="9.0"/>
+      <edge id="2703" source="吉原治良" target="池田満寿夫" weight="5.0"/>
+      <edge id="2704" source="吉原治良" target="猪熊弦一郎" weight="5.0"/>
+      <edge id="2705" source="吉原治良" target="鳥海青児" weight="5.0"/>
+      <edge id="2706" source="吉原治良" target="津高和一" weight="5.0"/>
+      <edge id="2707" source="吉原治良" target="鶴岡政男" weight="6.0"/>
+      <edge id="2708" source="吉原治良" target="田中敦子" weight="5.0"/>
+      <edge id="2709" source="吉原治良" target="堂本尚郎" weight="8.0"/>
+      <edge id="2710" source="吉原治良" target="難波田龍起" weight="8.0"/>
+      <edge id="2711" source="吉原治良" target="白髪一雄" weight="7.0"/>
+      <edge id="2712" source="吉田穂高" target="松本旻" weight="5.0"/>
+      <edge id="2713" source="桑山忠明" target="高松次郎" weight="5.0"/>
+      <edge id="2714" source="桂ゆき" target="斎藤義重" weight="5.0"/>
+      <edge id="2715" source="桂ゆき" target="山口長男" weight="5.0"/>
+      <edge id="2716" source="建畠覚造" target="元永定正" weight="7.0"/>
+      <edge id="2717" source="建畠覚造" target="向井良吉" weight="6.0"/>
+      <edge id="2718" source="建畠覚造" target="今井俊満" weight="6.0"/>
+      <edge id="2719" source="建畠覚造" target="斎藤義重" weight="6.0"/>
+      <edge id="2720" source="建畠覚造" target="山口勝弘" weight="6.0"/>
+      <edge id="2721" source="建畠覚造" target="山口長男" weight="5.0"/>
+      <edge id="2722" source="建畠覚造" target="篠田守男" weight="7.0"/>
+      <edge id="2723" source="建畠覚造" target="杉全直" weight="6.0"/>
+      <edge id="2724" source="建畠覚造" target="前田常作" weight="5.0"/>
+      <edge id="2725" source="建畠覚造" target="村井正誠" weight="7.0"/>
+      <edge id="2726" source="建畠覚造" target="多田美波" weight="5.0"/>
+      <edge id="2727" source="建畠覚造" target="池田満寿夫" weight="6.0"/>
+      <edge id="2728" source="建畠覚造" target="中西夏之" weight="6.0"/>
+      <edge id="2729" source="建畠覚造" target="堂本尚郎" weight="7.0"/>
+      <edge id="2730" source="建畠覚造" target="難波田龍起" weight="5.0"/>
+      <edge id="2731" source="建畠覚造" target="白髪一雄" weight="7.0"/>
+      <edge id="2732" source="建畠覚造" target="堀内正和" weight="7.0"/>
+      <edge id="2733" source="建畠覚造" target="靉嘔" weight="8.0"/>
+      <edge id="2734" source="元永定正" target="向井良吉" weight="5.0"/>
+      <edge id="2735" source="元永定正" target="荒川修作" weight="6.0"/>
+      <edge id="2736" source="元永定正" target="高松次郎" weight="8.0"/>
+      <edge id="2737" source="元永定正" target="黒崎彰" weight="5.0"/>
+      <edge id="2738" source="元永定正" target="今井俊満" weight="8.0"/>
+      <edge id="2739" source="元永定正" target="斎藤義重" weight="10.0"/>
+      <edge id="2740" source="元永定正" target="三尾公三" weight="8.0"/>
+      <edge id="2741" source="元永定正" target="山口勝弘" weight="6.0"/>
+      <edge id="2742" source="元永定正" target="山口長男" weight="9.0"/>
+      <edge id="2743" source="元永定正" target="篠田守男" weight="8.0"/>
+      <edge id="2744" source="元永定正" target="杉全直" weight="6.0"/>
+      <edge id="2745" source="元永定正" target="菅井汲" weight="7.0"/>
+      <edge id="2746" source="元永定正" target="清水九兵衛" weight="5.0"/>
+      <edge id="2747" source="元永定正" target="川端実" weight="5.0"/>
+      <edge id="2748" source="元永定正" target="前田常作" weight="10.0"/>
+      <edge id="2749" source="元永定正" target="村井正誠" weight="8.0"/>
+      <edge id="2750" source="元永定正" target="多田美波" weight="7.0"/>
+      <edge id="2751" source="元永定正" target="池田満寿夫" weight="8.0"/>
+      <edge id="2752" source="元永定正" target="中西夏之" weight="8.0"/>
+      <edge id="2753" source="元永定正" target="田中敦子" weight="6.0"/>
+      <edge id="2754" source="元永定正" target="田淵安一" weight="5.0"/>
+      <edge id="2755" source="元永定正" target="堂本尚郎" weight="11.0"/>
+      <edge id="2756" source="元永定正" target="難波田龍起" weight="6.0"/>
+      <edge id="2757" source="元永定正" target="白髪一雄" weight="11.0"/>
+      <edge id="2758" source="元永定正" target="飯田善國" weight="5.0"/>
+      <edge id="2759" source="元永定正" target="福岡道雄" weight="5.0"/>
+      <edge id="2760" source="元永定正" target="堀内正和" weight="6.0"/>
+      <edge id="2761" source="元永定正" target="麻生三郎" weight="5.0"/>
+      <edge id="2762" source="元永定正" target="木村光佑" weight="7.0"/>
+      <edge id="2763" source="元永定正" target="野田哲也" weight="6.0"/>
+      <edge id="2764" source="元永定正" target="靉嘔" weight="10.0"/>
+      <edge id="2765" source="原健" target="黒崎彰" weight="6.0"/>
+      <edge id="2766" source="原健" target="松本旻" weight="8.0"/>
+      <edge id="2767" source="原健" target="上田薫" weight="5.0"/>
+      <edge id="2768" source="原健" target="島州一" weight="6.0"/>
+      <edge id="2769" source="原健" target="二村裕子" weight="5.0"/>
+      <edge id="2770" source="吾妻兼治郎" target="豊福知徳" weight="5.0"/>
+      <edge id="2771" source="向井良吉" target="今井俊満" weight="5.0"/>
+      <edge id="2772" source="向井良吉" target="斎藤義重" weight="5.0"/>
+      <edge id="2773" source="向井良吉" target="三木富雄" weight="5.0"/>
+      <edge id="2774" source="向井良吉" target="山口勝弘" weight="6.0"/>
+      <edge id="2775" source="向井良吉" target="篠田守男" weight="7.0"/>
+      <edge id="2776" source="向井良吉" target="村井正誠" weight="5.0"/>
+      <edge id="2777" source="向井良吉" target="辻晉堂" weight="5.0"/>
+      <edge id="2778" source="向井良吉" target="堂本尚郎" weight="5.0"/>
+      <edge id="2779" source="向井良吉" target="難波田龍起" weight="5.0"/>
+      <edge id="2780" source="向井良吉" target="白髪一雄" weight="5.0"/>
+      <edge id="2781" source="向井良吉" target="豊福知徳" weight="5.0"/>
+      <edge id="2782" source="向井良吉" target="堀内正和" weight="5.0"/>
+      <edge id="2783" source="向井良吉" target="木村賢太郎" weight="5.0"/>
+      <edge id="2784" source="荒川修作" target="高松次郎" weight="8.0"/>
+      <edge id="2785" source="荒川修作" target="今井俊満" weight="6.0"/>
+      <edge id="2786" source="荒川修作" target="斎藤義重" weight="8.0"/>
+      <edge id="2787" source="荒川修作" target="三木富雄" weight="5.0"/>
+      <edge id="2788" source="荒川修作" target="山口長男" weight="9.0"/>
+      <edge id="2789" source="荒川修作" target="篠田守男" weight="6.0"/>
+      <edge id="2790" source="荒川修作" target="菅井汲" weight="8.0"/>
+      <edge id="2791" source="荒川修作" target="前田常作" weight="6.0"/>
+      <edge id="2792" source="荒川修作" target="村井正誠" weight="6.0"/>
+      <edge id="2793" source="荒川修作" target="池田満寿夫" weight="7.0"/>
+      <edge id="2794" source="荒川修作" target="中西夏之" weight="8.0"/>
+      <edge id="2795" source="荒川修作" target="田中信太郎" weight="5.0"/>
+      <edge id="2796" source="荒川修作" target="田淵安一" weight="5.0"/>
+      <edge id="2797" source="荒川修作" target="堂本尚郎" weight="10.0"/>
+      <edge id="2798" source="荒川修作" target="白髪一雄" weight="5.0"/>
+      <edge id="2799" source="荒川修作" target="靉嘔" weight="6.0"/>
+      <edge id="2800" source="香月泰男" target="斎藤義重" weight="5.0"/>
+      <edge id="2801" source="香月泰男" target="山口薫" weight="7.0"/>
+      <edge id="2802" source="香月泰男" target="山口長男" weight="5.0"/>
+      <edge id="2803" source="香月泰男" target="糸園和三郎" weight="5.0"/>
+      <edge id="2804" source="香月泰男" target="森芳雄" weight="6.0"/>
+      <edge id="2805" source="香月泰男" target="川端実" weight="5.0"/>
+      <edge id="2806" source="香月泰男" target="村井正誠" weight="6.0"/>
+      <edge id="2807" source="香月泰男" target="鳥海青児" weight="5.0"/>
+      <edge id="2808" source="香月泰男" target="鶴岡政男" weight="7.0"/>
+      <edge id="2809" source="香月泰男" target="福沢一郎" weight="5.0"/>
+      <edge id="2810" source="香月泰男" target="北脇昇" weight="5.0"/>
+      <edge id="2811" source="香月泰男" target="麻生三郎" weight="6.0"/>
+      <edge id="2812" source="香月泰男" target="林武" weight="5.0"/>
+      <edge id="2813" source="高橋秀" target="斎藤義重" weight="5.0"/>
+      <edge id="2814" source="高橋秀" target="菅井汲" weight="6.0"/>
+      <edge id="2815" source="高松次郎" target="黒崎彰" weight="5.0"/>
+      <edge id="2816" source="高松次郎" target="今井俊満" weight="5.0"/>
+      <edge id="2817" source="高松次郎" target="斎藤義重" weight="8.0"/>
+      <edge id="2818" source="高松次郎" target="三尾公三" weight="8.0"/>
+      <edge id="2819" source="高松次郎" target="三木富雄" weight="5.0"/>
+      <edge id="2820" source="高松次郎" target="山口長男" weight="9.0"/>
+      <edge id="2821" source="高松次郎" target="篠田守男" weight="6.0"/>
+      <edge id="2822" source="高松次郎" target="若林奮" weight="6.0"/>
+      <edge id="2823" source="高松次郎" target="松本旻" weight="6.0"/>
+      <edge id="2824" source="高松次郎" target="菅井汲" weight="10.0"/>
+      <edge id="2825" source="高松次郎" target="菅木志雄" weight="5.0"/>
+      <edge id="2826" source="高松次郎" target="前田常作" weight="6.0"/>
+      <edge id="2827" source="高松次郎" target="村井正誠" weight="5.0"/>
+      <edge id="2828" source="高松次郎" target="多田美波" weight="5.0"/>
+      <edge id="2829" source="高松次郎" target="池田満寿夫" weight="13.0"/>
+      <edge id="2830" source="高松次郎" target="中西夏之" weight="9.0"/>
+      <edge id="2831" source="高松次郎" target="田中信太郎" weight="7.0"/>
+      <edge id="2832" source="高松次郎" target="堂本尚郎" weight="13.0"/>
+      <edge id="2833" source="高松次郎" target="白髪一雄" weight="5.0"/>
+      <edge id="2834" source="高松次郎" target="飯田善國" weight="6.0"/>
+      <edge id="2835" source="高松次郎" target="浜口陽三" weight="7.0"/>
+      <edge id="2836" source="高松次郎" target="福沢一郎" weight="5.0"/>
+      <edge id="2837" source="高松次郎" target="保田春彦" weight="5.0"/>
+      <edge id="2838" source="高松次郎" target="堀内正和" weight="5.0"/>
+      <edge id="2839" source="高松次郎" target="麻生三郎" weight="5.0"/>
+      <edge id="2840" source="高松次郎" target="木村光佑" weight="8.0"/>
+      <edge id="2841" source="高松次郎" target="野田哲也" weight="9.0"/>
+      <edge id="2842" source="高松次郎" target="李禹煥" weight="7.0"/>
+      <edge id="2843" source="高松次郎" target="靉嘔" weight="14.0"/>
+      <edge id="2844" source="黒崎彰" target="三尾公三" weight="6.0"/>
+      <edge id="2845" source="黒崎彰" target="山口牧生" weight="5.0"/>
+      <edge id="2846" source="黒崎彰" target="松本旻" weight="10.0"/>
+      <edge id="2847" source="黒崎彰" target="上矢津" weight="5.0"/>
+      <edge id="2848" source="黒崎彰" target="島州一" weight="7.0"/>
+      <edge id="2849" source="黒崎彰" target="木村光佑" weight="10.0"/>
+      <edge id="2850" source="黒崎彰" target="野田哲也" weight="7.0"/>
+      <edge id="2851" source="黒崎彰" target="矢柳剛" weight="6.0"/>
+      <edge id="2852" source="黒崎彰" target="靉嘔" weight="7.0"/>
+      <edge id="2853" source="今井祝雄" target="小室至" weight="6.0"/>
+      <edge id="2854" source="今井祝雄" target="小田襄" weight="6.0"/>
+      <edge id="2855" source="今井祝雄" target="松本旻" weight="8.0"/>
+      <edge id="2856" source="今井祝雄" target="上田薫" weight="7.0"/>
+      <edge id="2857" source="今井祝雄" target="森岡完介" weight="5.0"/>
+      <edge id="2858" source="今井祝雄" target="中野武夫" weight="8.0"/>
+      <edge id="2859" source="今井祝雄" target="田辺和郎" weight="5.0"/>
+      <edge id="2860" source="今井祝雄" target="島州一" weight="7.0"/>
+      <edge id="2861" source="今井祝雄" target="二村裕子" weight="6.0"/>
+      <edge id="2862" source="今井祝雄" target="浜口行雄" weight="5.0"/>
+      <edge id="2863" source="今井祝雄" target="望月菊磨" weight="5.0"/>
+      <edge id="2864" source="今井祝雄" target="木村光佑*" weight="5.0"/>
+      <edge id="2865" source="今井祝雄" target="靉嘔*" weight="5.0"/>
+      <edge id="2866" source="今井俊満" target="斎藤義重" weight="9.0"/>
+      <edge id="2867" source="今井俊満" target="山口長男" weight="8.0"/>
+      <edge id="2868" source="今井俊満" target="篠田守男" weight="7.0"/>
+      <edge id="2869" source="今井俊満" target="杉全直" weight="6.0"/>
+      <edge id="2870" source="今井俊満" target="菅井汲" weight="8.0"/>
+      <edge id="2871" source="今井俊満" target="川端実" weight="7.0"/>
+      <edge id="2872" source="今井俊満" target="前田常作" weight="8.0"/>
+      <edge id="2873" source="今井俊満" target="村井正誠" weight="9.0"/>
+      <edge id="2874" source="今井俊満" target="池田満寿夫" weight="6.0"/>
+      <edge id="2875" source="今井俊満" target="中西夏之" weight="5.0"/>
+      <edge id="2876" source="今井俊満" target="鶴岡政男" weight="5.0"/>
+      <edge id="2877" source="今井俊満" target="田中敦子" weight="5.0"/>
+      <edge id="2878" source="今井俊満" target="堂本尚郎" weight="10.0"/>
+      <edge id="2879" source="今井俊満" target="難波田龍起" weight="7.0"/>
+      <edge id="2880" source="今井俊満" target="白髪一雄" weight="8.0"/>
+      <edge id="2881" source="今井俊満" target="堀内正和" weight="5.0"/>
+      <edge id="2882" source="今井俊満" target="靉嘔" weight="6.0"/>
+      <edge id="2883" source="最上壽之" target="多田美波" weight="5.0"/>
+      <edge id="2884" source="斎藤義重" target="山口薫" weight="5.0"/>
+      <edge id="2885" source="斎藤義重" target="山口勝弘" weight="5.0"/>
+      <edge id="2886" source="斎藤義重" target="山口長男" weight="12.0"/>
+      <edge id="2887" source="斎藤義重" target="糸園和三郎" weight="5.0"/>
+      <edge id="2888" source="斎藤義重" target="篠田守男" weight="6.0"/>
+      <edge id="2889" source="斎藤義重" target="森芳雄" weight="6.0"/>
+      <edge id="2890" source="斎藤義重" target="杉全直" weight="6.0"/>
+      <edge id="2891" source="斎藤義重" target="菅井汲" weight="10.0"/>
+      <edge id="2892" source="斎藤義重" target="川端実" weight="8.0"/>
+      <edge id="2893" source="斎藤義重" target="前田常作" weight="10.0"/>
+      <edge id="2894" source="斎藤義重" target="村井正誠" weight="10.0"/>
+      <edge id="2895" source="斎藤義重" target="池田満寿夫" weight="8.0"/>
+      <edge id="2896" source="斎藤義重" target="中西夏之" weight="7.0"/>
+      <edge id="2897" source="斎藤義重" target="猪熊弦一郎" weight="6.0"/>
+      <edge id="2898" source="斎藤義重" target="鶴岡政男" weight="6.0"/>
+      <edge id="2899" source="斎藤義重" target="田中敦子" weight="5.0"/>
+      <edge id="2900" source="斎藤義重" target="田淵安一" weight="5.0"/>
+      <edge id="2901" source="斎藤義重" target="堂本尚郎" weight="10.0"/>
+      <edge id="2902" source="斎藤義重" target="難波田龍起" weight="8.0"/>
+      <edge id="2903" source="斎藤義重" target="白髪一雄" weight="8.0"/>
+      <edge id="2904" source="斎藤義重" target="福沢一郎" weight="5.0"/>
+      <edge id="2905" source="斎藤義重" target="堀内正和" weight="6.0"/>
+      <edge id="2906" source="斎藤義重" target="麻生三郎" weight="6.0"/>
+      <edge id="2907" source="斎藤義重" target="靉嘔" weight="9.0"/>
+      <edge id="2908" source="斎藤智" target="松本旻" weight="6.0"/>
+      <edge id="2909" source="斎藤智" target="上田薫" weight="5.0"/>
+      <edge id="2910" source="斎藤智" target="島州一" weight="6.0"/>
+      <edge id="2911" source="桜井尚" target="小室至" weight="6.0"/>
+      <edge id="2912" source="桜井尚" target="上田薫" weight="5.0"/>
+      <edge id="2913" source="桜井尚" target="中野武夫" weight="6.0"/>
+      <edge id="2914" source="桜井尚" target="田辺和郎" weight="5.0"/>
+      <edge id="2915" source="桜井尚" target="浜野年宏" weight="6.0"/>
+      <edge id="2916" source="桜井尚" target="林鉅" weight="6.0"/>
+      <edge id="2917" source="三尾公三" target="若林奮" weight="5.0"/>
+      <edge id="2918" source="三尾公三" target="松本旻" weight="5.0"/>
+      <edge id="2919" source="三尾公三" target="清水九兵衛" weight="5.0"/>
+      <edge id="2920" source="三尾公三" target="多田美波" weight="5.0"/>
+      <edge id="2921" source="三尾公三" target="池田満寿夫" weight="6.0"/>
+      <edge id="2922" source="三尾公三" target="中西夏之" weight="5.0"/>
+      <edge id="2923" source="三尾公三" target="島州一" weight="5.0"/>
+      <edge id="2924" source="三尾公三" target="堂本尚郎" weight="8.0"/>
+      <edge id="2925" source="三尾公三" target="木村光佑" weight="9.0"/>
+      <edge id="2926" source="三尾公三" target="野田哲也" weight="8.0"/>
+      <edge id="2927" source="三尾公三" target="靉嘔" weight="9.0"/>
+      <edge id="2928" source="三木富雄" target="山口勝弘" weight="5.0"/>
+      <edge id="2929" source="三木富雄" target="篠田守男" weight="8.0"/>
+      <edge id="2930" source="三木富雄" target="菅井汲" weight="5.0"/>
+      <edge id="2931" source="三木富雄" target="池田満寿夫" weight="6.0"/>
+      <edge id="2932" source="三木富雄" target="中西夏之" weight="6.0"/>
+      <edge id="2933" source="三木富雄" target="堂本尚郎" weight="6.0"/>
+      <edge id="2934" source="三木富雄" target="飯田善國" weight="5.0"/>
+      <edge id="2935" source="三木富雄" target="保田春彦" weight="5.0"/>
+      <edge id="2936" source="三木富雄" target="豊福知徳" weight="5.0"/>
+      <edge id="2937" source="山口薫" target="山口長男" weight="5.0"/>
+      <edge id="2938" source="山口薫" target="糸園和三郎" weight="5.0"/>
+      <edge id="2939" source="山口薫" target="森芳雄" weight="6.0"/>
+      <edge id="2940" source="山口薫" target="川端実" weight="5.0"/>
+      <edge id="2941" source="山口薫" target="村井正誠" weight="6.0"/>
+      <edge id="2942" source="山口薫" target="鳥海青児" weight="5.0"/>
+      <edge id="2943" source="山口薫" target="鶴岡政男" weight="7.0"/>
+      <edge id="2944" source="山口薫" target="福沢一郎" weight="5.0"/>
+      <edge id="2945" source="山口薫" target="北脇昇" weight="5.0"/>
+      <edge id="2946" source="山口薫" target="麻生三郎" weight="6.0"/>
+      <edge id="2947" source="山口薫" target="林武" weight="5.0"/>
+      <edge id="2948" source="山口勝弘" target="山口長男" weight="5.0"/>
+      <edge id="2949" source="山口勝弘" target="篠田守男" weight="8.0"/>
+      <edge id="2950" source="山口勝弘" target="清水九兵衛" weight="5.0"/>
+      <edge id="2951" source="山口勝弘" target="多田美波" weight="5.0"/>
+      <edge id="2952" source="山口勝弘" target="池田満寿夫" weight="5.0"/>
+      <edge id="2953" source="山口勝弘" target="中西夏之" weight="5.0"/>
+      <edge id="2954" source="山口勝弘" target="辻晉堂" weight="5.0"/>
+      <edge id="2955" source="山口勝弘" target="堂本尚郎" weight="6.0"/>
+      <edge id="2956" source="山口勝弘" target="白髪一雄" weight="6.0"/>
+      <edge id="2957" source="山口勝弘" target="飯田善國" weight="6.0"/>
+      <edge id="2958" source="山口勝弘" target="保田春彦" weight="5.0"/>
+      <edge id="2959" source="山口勝弘" target="豊福知徳" weight="5.0"/>
+      <edge id="2960" source="山口勝弘" target="堀内正和" weight="6.0"/>
+      <edge id="2961" source="山口勝弘" target="木村賢太郎" weight="5.0"/>
+      <edge id="2962" source="山口勝弘" target="靉嘔" weight="6.0"/>
+      <edge id="2963" source="山口長男" target="糸園和三郎" weight="5.0"/>
+      <edge id="2964" source="山口長男" target="篠田守男" weight="6.0"/>
+      <edge id="2965" source="山口長男" target="森芳雄" weight="6.0"/>
+      <edge id="2966" source="山口長男" target="杉全直" weight="5.0"/>
+      <edge id="2967" source="山口長男" target="菅井汲" weight="10.0"/>
+      <edge id="2968" source="山口長男" target="川端実" weight="7.0"/>
+      <edge id="2969" source="山口長男" target="前田常作" weight="8.0"/>
+      <edge id="2970" source="山口長男" target="村井正誠" weight="9.0"/>
+      <edge id="2971" source="山口長男" target="池田満寿夫" weight="7.0"/>
+      <edge id="2972" source="山口長男" target="中西夏之" weight="7.0"/>
+      <edge id="2973" source="山口長男" target="猪熊弦一郎" weight="5.0"/>
+      <edge id="2974" source="山口長男" target="鶴岡政男" weight="5.0"/>
+      <edge id="2975" source="山口長男" target="堂本尚郎" weight="11.0"/>
+      <edge id="2976" source="山口長男" target="難波田龍起" weight="7.0"/>
+      <edge id="2977" source="山口長男" target="白髪一雄" weight="7.0"/>
+      <edge id="2978" source="山口長男" target="飯田善國" weight="5.0"/>
+      <edge id="2979" source="山口長男" target="福沢一郎" weight="5.0"/>
+      <edge id="2980" source="山口長男" target="堀内正和" weight="6.0"/>
+      <edge id="2981" source="山口長男" target="麻生三郎" weight="6.0"/>
+      <edge id="2982" source="山口長男" target="靉嘔" weight="8.0"/>
+      <edge id="2983" source="山口牧生" target="清水九兵衛" weight="5.0"/>
+      <edge id="2984" source="山本衛士" target="上田薫" weight="5.0"/>
+      <edge id="2985" source="山本衛士" target="森秀雄" weight="5.0"/>
+      <edge id="2986" source="山本衛士" target="青山光佑" weight="5.0"/>
+      <edge id="2987" source="山本衛士" target="中野武夫" weight="5.0"/>
+      <edge id="2988" source="山本衛士" target="島州一" weight="5.0"/>
+      <edge id="2989" source="山本衛士" target="二村裕子" weight="5.0"/>
+      <edge id="2990" source="糸園和三郎" target="森芳雄" weight="5.0"/>
+      <edge id="2991" source="糸園和三郎" target="村井正誠" weight="5.0"/>
+      <edge id="2992" source="糸園和三郎" target="鳥海青児" weight="5.0"/>
+      <edge id="2993" source="糸園和三郎" target="鶴岡政男" weight="5.0"/>
+      <edge id="2994" source="糸園和三郎" target="福沢一郎" weight="5.0"/>
+      <edge id="2995" source="糸園和三郎" target="麻生三郎" weight="5.0"/>
+      <edge id="2996" source="糸園和三郎" target="林武" weight="5.0"/>
+      <edge id="2997" source="糸園和三郎" target="脇田和" weight="5.0"/>
+      <edge id="2998" source="篠原有司男" target="池田満寿夫" weight="5.0"/>
+      <edge id="2999" source="篠原有司男" target="中西夏之" weight="5.0"/>
+      <edge id="3000" source="篠原有司男" target="靉嘔" weight="6.0"/>
+      <edge id="3001" source="篠田守男" target="植木茂" weight="5.0"/>
+      <edge id="3002" source="篠田守男" target="杉全直" weight="5.0"/>
+      <edge id="3003" source="篠田守男" target="菅井汲" weight="8.0"/>
+      <edge id="3004" source="篠田守男" target="清水九兵衛" weight="5.0"/>
+      <edge id="3005" source="篠田守男" target="前田常作" weight="6.0"/>
+      <edge id="3006" source="篠田守男" target="村井正誠" weight="6.0"/>
+      <edge id="3007" source="篠田守男" target="多田美波" weight="9.0"/>
+      <edge id="3008" source="篠田守男" target="池田満寿夫" weight="8.0"/>
+      <edge id="3009" source="篠田守男" target="中西夏之" weight="8.0"/>
+      <edge id="3010" source="篠田守男" target="辻晉堂" weight="5.0"/>
+      <edge id="3011" source="篠田守男" target="田中信太郎" weight="6.0"/>
+      <edge id="3012" source="篠田守男" target="田中敦子" weight="5.0"/>
+      <edge id="3013" source="篠田守男" target="堂本尚郎" weight="9.0"/>
+      <edge id="3014" source="篠田守男" target="難波田龍起" weight="5.0"/>
+      <edge id="3015" source="篠田守男" target="白髪一雄" weight="8.0"/>
+      <edge id="3016" source="篠田守男" target="飯田善國" weight="8.0"/>
+      <edge id="3017" source="篠田守男" target="保田春彦" weight="6.0"/>
+      <edge id="3018" source="篠田守男" target="豊福知徳" weight="6.0"/>
+      <edge id="3019" source="篠田守男" target="堀内正和" weight="6.0"/>
+      <edge id="3020" source="篠田守男" target="木村賢太郎" weight="5.0"/>
+      <edge id="3021" source="篠田守男" target="靉嘔" weight="7.0"/>
+      <edge id="3022" source="若江漢字" target="島州一" weight="6.0"/>
+      <edge id="3023" source="若林奮" target="多田美波" weight="5.0"/>
+      <edge id="3024" source="若林奮" target="池田満寿夫" weight="5.0"/>
+      <edge id="3025" source="若林奮" target="中西夏之" weight="5.0"/>
+      <edge id="3026" source="若林奮" target="堀内正和" weight="5.0"/>
+      <edge id="3027" source="若林奮" target="靉嘔" weight="5.0"/>
+      <edge id="3028" source="秋元幸茂" target="小室至" weight="6.0"/>
+      <edge id="3029" source="秋元幸茂" target="上田薫" weight="6.0"/>
+      <edge id="3030" source="秋元幸茂" target="中野武夫" weight="6.0"/>
+      <edge id="3031" source="秋元幸茂" target="二村裕子" weight="5.0"/>
+      <edge id="3032" source="秋元幸茂" target="浜口行雄" weight="6.0"/>
+      <edge id="3033" source="小室至" target="松本旻" weight="6.0"/>
+      <edge id="3034" source="小室至" target="上田薫" weight="7.0"/>
+      <edge id="3035" source="小室至" target="中野武夫" weight="8.0"/>
+      <edge id="3036" source="小室至" target="田辺和郎" weight="5.0"/>
+      <edge id="3037" source="小室至" target="二村裕子" weight="6.0"/>
+      <edge id="3038" source="小室至" target="浜口行雄" weight="6.0"/>
+      <edge id="3039" source="小室至" target="浜野年宏" weight="6.0"/>
+      <edge id="3040" source="小室至" target="林鉅" weight="6.0"/>
+      <edge id="3041" source="小清水漸" target="菅木志雄" weight="5.0"/>
+      <edge id="3042" source="小清水漸" target="清水九兵衛" weight="5.0"/>
+      <edge id="3043" source="小田襄" target="松本旻" weight="7.0"/>
+      <edge id="3044" source="小田襄" target="上田薫" weight="6.0"/>
+      <edge id="3045" source="小田襄" target="中野武夫" weight="6.0"/>
+      <edge id="3046" source="小田襄" target="島州一" weight="5.0"/>
+      <edge id="3047" source="小田襄" target="堂本尚郎" weight="5.0"/>
+      <edge id="3048" source="小田襄" target="二村裕子" weight="6.0"/>
+      <edge id="3049" source="松本旻" target="上田薫" weight="8.0"/>
+      <edge id="3050" source="松本旻" target="上矢津" weight="5.0"/>
+      <edge id="3051" source="松本旻" target="森岡完介" weight="5.0"/>
+      <edge id="3052" source="松本旻" target="池田満寿夫" weight="5.0"/>
+      <edge id="3053" source="松本旻" target="中野武夫" weight="8.0"/>
+      <edge id="3054" source="松本旻" target="田辺和郎" weight="5.0"/>
+      <edge id="3055" source="松本旻" target="島州一" weight="9.0"/>
+      <edge id="3056" source="松本旻" target="堂本尚郎" weight="6.0"/>
+      <edge id="3057" source="松本旻" target="二村裕子" weight="7.0"/>
+      <edge id="3058" source="松本旻" target="浜田浄" weight="5.0"/>
+      <edge id="3059" source="松本旻" target="望月菊磨" weight="5.0"/>
+      <edge id="3060" source="松本旻" target="木村光佑" weight="9.0"/>
+      <edge id="3061" source="松本旻" target="木村光佑*" weight="5.0"/>
+      <edge id="3062" source="松本旻" target="野田哲也" weight="7.0"/>
+      <edge id="3063" source="松本旻" target="矢柳剛" weight="5.0"/>
+      <edge id="3064" source="松本旻" target="靉嘔" weight="8.0"/>
+      <edge id="3065" source="松本旻" target="靉嘔*" weight="5.0"/>
+      <edge id="3066" source="上田薫" target="森秀雄" weight="6.0"/>
+      <edge id="3067" source="上田薫" target="青山光佑" weight="6.0"/>
+      <edge id="3068" source="上田薫" target="中野武夫" weight="10.0"/>
+      <edge id="3069" source="上田薫" target="田辺和郎" weight="7.0"/>
+      <edge id="3070" source="上田薫" target="島州一" weight="7.0"/>
+      <edge id="3071" source="上田薫" target="堂本尚郎" weight="5.0"/>
+      <edge id="3072" source="上田薫" target="二村裕子" weight="8.0"/>
+      <edge id="3073" source="上田薫" target="浜口行雄" weight="6.0"/>
+      <edge id="3074" source="上田薫" target="浜野年宏" weight="5.0"/>
+      <edge id="3075" source="上田薫" target="望月菊磨" weight="5.0"/>
+      <edge id="3076" source="上田薫" target="木村光佑*" weight="5.0"/>
+      <edge id="3077" source="上田薫" target="林鉅" weight="5.0"/>
+      <edge id="3078" source="上田薫" target="靉嘔" weight="5.0"/>
+      <edge id="3079" source="上田薫" target="靉嘔*" weight="5.0"/>
+      <edge id="3080" source="新宮晋" target="清水九兵衛" weight="5.0"/>
+      <edge id="3081" source="森岡完介" target="浜田浄" weight="5.0"/>
+      <edge id="3082" source="森秀雄" target="青山光佑" weight="6.0"/>
+      <edge id="3083" source="森秀雄" target="中野武夫" weight="6.0"/>
+      <edge id="3084" source="森秀雄" target="二村裕子" weight="6.0"/>
+      <edge id="3085" source="森芳雄" target="川端実" weight="5.0"/>
+      <edge id="3086" source="森芳雄" target="村井正誠" weight="7.0"/>
+      <edge id="3087" source="森芳雄" target="鶴岡政男" weight="6.0"/>
+      <edge id="3088" source="森芳雄" target="福沢一郎" weight="5.0"/>
+      <edge id="3089" source="森芳雄" target="麻生三郎" weight="6.0"/>
+      <edge id="3090" source="杉全直" target="川端実" weight="5.0"/>
+      <edge id="3091" source="杉全直" target="前田常作" weight="6.0"/>
+      <edge id="3092" source="杉全直" target="村井正誠" weight="8.0"/>
+      <edge id="3093" source="杉全直" target="鶴岡政男" weight="5.0"/>
+      <edge id="3094" source="杉全直" target="堂本尚郎" weight="6.0"/>
+      <edge id="3095" source="杉全直" target="難波田龍起" weight="6.0"/>
+      <edge id="3096" source="杉全直" target="白髪一雄" weight="6.0"/>
+      <edge id="3097" source="杉全直" target="麻生三郎" weight="5.0"/>
+      <edge id="3098" source="菅井汲" target="川端実" weight="5.0"/>
+      <edge id="3099" source="菅井汲" target="前田常作" weight="8.0"/>
+      <edge id="3100" source="菅井汲" target="村井正誠" weight="7.0"/>
+      <edge id="3101" source="菅井汲" target="多田美波" weight="6.0"/>
+      <edge id="3102" source="菅井汲" target="池田満寿夫" weight="8.0"/>
+      <edge id="3103" source="菅井汲" target="中西夏之" weight="7.0"/>
+      <edge id="3104" source="菅井汲" target="猪熊弦一郎" weight="5.0"/>
+      <edge id="3105" source="菅井汲" target="田中信太郎" weight="5.0"/>
+      <edge id="3106" source="菅井汲" target="田淵安一" weight="5.0"/>
+      <edge id="3107" source="菅井汲" target="堂本尚郎" weight="10.0"/>
+      <edge id="3108" source="菅井汲" target="難波田龍起" weight="5.0"/>
+      <edge id="3109" source="菅井汲" target="白髪一雄" weight="5.0"/>
+      <edge id="3110" source="菅井汲" target="飯田善國" weight="5.0"/>
+      <edge id="3111" source="菅井汲" target="浜口陽三" weight="7.0"/>
+      <edge id="3112" source="菅井汲" target="豊福知徳" weight="5.0"/>
+      <edge id="3113" source="菅井汲" target="野田哲也" weight="5.0"/>
+      <edge id="3114" source="菅井汲" target="李禹煥" weight="5.0"/>
+      <edge id="3115" source="菅井汲" target="脇田愛二郎" weight="5.0"/>
+      <edge id="3116" source="菅井汲" target="靉嘔" weight="9.0"/>
+      <edge id="3117" source="清水九兵衛" target="村岡三郎" weight="5.0"/>
+      <edge id="3118" source="清水九兵衛" target="中西夏之" weight="6.0"/>
+      <edge id="3119" source="清水九兵衛" target="飯田善國" weight="6.0"/>
+      <edge id="3120" source="清水九兵衛" target="保田春彦" weight="5.0"/>
+      <edge id="3121" source="清水九兵衛" target="靉嘔" weight="5.0"/>
+      <edge id="3122" source="青山光佑" target="中野武夫" weight="6.0"/>
+      <edge id="3123" source="青山光佑" target="二村裕子" weight="7.0"/>
+      <edge id="3124" source="斉藤智" target="木村秀樹" weight="5.0"/>
+      <edge id="3125" source="川端実" target="前田常作" weight="5.0"/>
+      <edge id="3126" source="川端実" target="村井正誠" weight="8.0"/>
+      <edge id="3127" source="川端実" target="猪熊弦一郎" weight="5.0"/>
+      <edge id="3128" source="川端実" target="鶴岡政男" weight="6.0"/>
+      <edge id="3129" source="川端実" target="堂本尚郎" weight="6.0"/>
+      <edge id="3130" source="川端実" target="難波田龍起" weight="7.0"/>
+      <edge id="3131" source="川端実" target="白髪一雄" weight="5.0"/>
+      <edge id="3132" source="前田常作" target="村井正誠" weight="8.0"/>
+      <edge id="3133" source="前田常作" target="多田美波" weight="6.0"/>
+      <edge id="3134" source="前田常作" target="池田満寿夫" weight="6.0"/>
+      <edge id="3135" source="前田常作" target="中西夏之" weight="7.0"/>
+      <edge id="3136" source="前田常作" target="猪熊弦一郎" weight="5.0"/>
+      <edge id="3137" source="前田常作" target="津高和一" weight="5.0"/>
+      <edge id="3138" source="前田常作" target="田中敦子" weight="5.0"/>
+      <edge id="3139" source="前田常作" target="堂本尚郎" weight="10.0"/>
+      <edge id="3140" source="前田常作" target="難波田龍起" weight="6.0"/>
+      <edge id="3141" source="前田常作" target="白髪一雄" weight="7.0"/>
+      <edge id="3142" source="前田常作" target="靉嘔" weight="8.0"/>
+      <edge id="3143" source="村井正誠" target="池田満寿夫" weight="6.0"/>
+      <edge id="3144" source="村井正誠" target="中西夏之" weight="5.0"/>
+      <edge id="3145" source="村井正誠" target="猪熊弦一郎" weight="5.0"/>
+      <edge id="3146" source="村井正誠" target="鶴岡政男" weight="7.0"/>
+      <edge id="3147" source="村井正誠" target="堂本尚郎" weight="9.0"/>
+      <edge id="3148" source="村井正誠" target="難波田龍起" weight="8.0"/>
+      <edge id="3149" source="村井正誠" target="白髪一雄" weight="7.0"/>
+      <edge id="3150" source="村井正誠" target="福沢一郎" weight="6.0"/>
+      <edge id="3151" source="村井正誠" target="堀内正和" weight="5.0"/>
+      <edge id="3152" source="村井正誠" target="麻生三郎" weight="7.0"/>
+      <edge id="3153" source="村井正誠" target="靉嘔" weight="6.0"/>
+      <edge id="3154" source="多田美波" target="中西夏之" weight="6.0"/>
+      <edge id="3155" source="多田美波" target="堂本尚郎" weight="6.0"/>
+      <edge id="3156" source="多田美波" target="白髪一雄" weight="5.0"/>
+      <edge id="3157" source="多田美波" target="飯田善國" weight="5.0"/>
+      <edge id="3158" source="多田美波" target="木村光佑" weight="5.0"/>
+      <edge id="3159" source="多田美波" target="靉嘔" weight="6.0"/>
+      <edge id="3160" source="池田満寿夫" target="中西夏之" weight="8.0"/>
+      <edge id="3161" source="池田満寿夫" target="田中信太郎" weight="6.0"/>
+      <edge id="3162" source="池田満寿夫" target="田淵安一" weight="6.0"/>
+      <edge id="3163" source="池田満寿夫" target="堂本尚郎" weight="11.0"/>
+      <edge id="3164" source="池田満寿夫" target="萩原英雄" weight="5.0"/>
+      <edge id="3165" source="池田満寿夫" target="白髪一雄" weight="7.0"/>
+      <edge id="3166" source="池田満寿夫" target="飯田善國" weight="5.0"/>
+      <edge id="3167" source="池田満寿夫" target="浜口陽三" weight="8.0"/>
+      <edge id="3168" source="池田満寿夫" target="浜田知明" weight="5.0"/>
+      <edge id="3169" source="池田満寿夫" target="堀内正和" weight="6.0"/>
+      <edge id="3170" source="池田満寿夫" target="麻生三郎" weight="5.0"/>
+      <edge id="3171" source="池田満寿夫" target="木村光佑" weight="6.0"/>
+      <edge id="3172" source="池田満寿夫" target="野田哲也" weight="8.0"/>
+      <edge id="3173" source="池田満寿夫" target="李禹煥" weight="5.0"/>
+      <edge id="3174" source="池田満寿夫" target="靉嘔" weight="15.0"/>
+      <edge id="3175" source="中西夏之" target="田中信太郎" weight="5.0"/>
+      <edge id="3176" source="中西夏之" target="田淵安一" weight="5.0"/>
+      <edge id="3177" source="中西夏之" target="堂本尚郎" weight="9.0"/>
+      <edge id="3178" source="中西夏之" target="白髪一雄" weight="6.0"/>
+      <edge id="3179" source="中西夏之" target="飯田善國" weight="6.0"/>
+      <edge id="3180" source="中西夏之" target="野田哲也" weight="5.0"/>
+      <edge id="3181" source="中西夏之" target="靉嘔" weight="9.0"/>
+      <edge id="3182" source="中野武夫" target="田辺和郎" weight="7.0"/>
+      <edge id="3183" source="中野武夫" target="島州一" weight="6.0"/>
+      <edge id="3184" source="中野武夫" target="堂本尚郎" weight="5.0"/>
+      <edge id="3185" source="中野武夫" target="二村裕子" weight="8.0"/>
+      <edge id="3186" source="中野武夫" target="浜口行雄" weight="6.0"/>
+      <edge id="3187" source="中野武夫" target="浜野年宏" weight="6.0"/>
+      <edge id="3188" source="中野武夫" target="望月菊磨" weight="5.0"/>
+      <edge id="3189" source="中野武夫" target="木村光佑*" weight="6.0"/>
+      <edge id="3190" source="中野武夫" target="林鉅" weight="6.0"/>
+      <edge id="3191" source="中野武夫" target="靉嘔*" weight="6.0"/>
+      <edge id="3192" source="猪熊弦一郎" target="堂本尚郎" weight="5.0"/>
+      <edge id="3193" source="鳥海青児" target="鶴岡政男" weight="5.0"/>
+      <edge id="3194" source="鳥海青児" target="林武" weight="5.0"/>
+      <edge id="3195" source="辻晉堂" target="木村賢太郎" weight="5.0"/>
+      <edge id="3196" source="鶴岡政男" target="難波田龍起" weight="5.0"/>
+      <edge id="3197" source="鶴岡政男" target="福沢一郎" weight="5.0"/>
+      <edge id="3198" source="鶴岡政男" target="北脇昇" weight="5.0"/>
+      <edge id="3199" source="鶴岡政男" target="麻生三郎" weight="6.0"/>
+      <edge id="3200" source="鶴岡政男" target="林武" weight="5.0"/>
+      <edge id="3201" source="田中信太郎" target="堂本尚郎" weight="7.0"/>
+      <edge id="3202" source="田中信太郎" target="飯田善國" weight="5.0"/>
+      <edge id="3203" source="田中信太郎" target="靉嘔" weight="5.0"/>
+      <edge id="3204" source="田中敦子" target="堂本尚郎" weight="5.0"/>
+      <edge id="3205" source="田中敦子" target="白髪一雄" weight="6.0"/>
+      <edge id="3206" source="田淵安一" target="堂本尚郎" weight="7.0"/>
+      <edge id="3207" source="田淵安一" target="靉嘔" weight="5.0"/>
+      <edge id="3208" source="田辺和郎" target="島州一" weight="5.0"/>
+      <edge id="3209" source="田辺和郎" target="二村裕子" weight="6.0"/>
+      <edge id="3210" source="田辺和郎" target="浜野年宏" weight="5.0"/>
+      <edge id="3211" source="田辺和郎" target="林鉅" weight="5.0"/>
+      <edge id="3212" source="島州一" target="二村裕子" weight="7.0"/>
+      <edge id="3213" source="島州一" target="福田繁雄" weight="6.0"/>
+      <edge id="3214" source="島州一" target="木村光佑" weight="7.0"/>
+      <edge id="3215" source="島州一" target="野田哲也" weight="6.0"/>
+      <edge id="3216" source="島州一" target="矢柳剛" weight="5.0"/>
+      <edge id="3217" source="島州一" target="靉嘔" weight="8.0"/>
+      <edge id="3218" source="堂本尚郎" target="難波田龍起" weight="7.0"/>
+      <edge id="3219" source="堂本尚郎" target="白髪一雄" weight="9.0"/>
+      <edge id="3220" source="堂本尚郎" target="飯田善國" weight="7.0"/>
+      <edge id="3221" source="堂本尚郎" target="浜口陽三" weight="5.0"/>
+      <edge id="3222" source="堂本尚郎" target="保田春彦" weight="6.0"/>
+      <edge id="3223" source="堂本尚郎" target="堀内正和" weight="6.0"/>
+      <edge id="3224" source="堂本尚郎" target="麻生三郎" weight="5.0"/>
+      <edge id="3225" source="堂本尚郎" target="木村光佑" weight="8.0"/>
+      <edge id="3226" source="堂本尚郎" target="野田哲也" weight="5.0"/>
+      <edge id="3227" source="堂本尚郎" target="靉嘔" weight="14.0"/>
+      <edge id="3228" source="難波田龍起" target="白髪一雄" weight="6.0"/>
+      <edge id="3229" source="二村裕子" target="浜口行雄" weight="5.0"/>
+      <edge id="3230" source="二村裕子" target="福田繁雄" weight="5.0"/>
+      <edge id="3231" source="二村裕子" target="木村光佑" weight="6.0"/>
+      <edge id="3232" source="萩原英雄" target="靉嘔" weight="6.0"/>
+      <edge id="3233" source="白髪一雄" target="堀内正和" weight="6.0"/>
+      <edge id="3234" source="白髪一雄" target="靉嘔" weight="7.0"/>
+      <edge id="3235" source="飯田善國" target="保田春彦" weight="6.0"/>
+      <edge id="3236" source="飯田善國" target="靉嘔" weight="7.0"/>
+      <edge id="3237" source="浜口陽三" target="野田哲也" weight="6.0"/>
+      <edge id="3238" source="浜口陽三" target="靉嘔" weight="7.0"/>
+      <edge id="3239" source="浜田知明" target="靉嘔" weight="5.0"/>
+      <edge id="3240" source="浜野年宏" target="林鉅" weight="6.0"/>
+      <edge id="3241" source="福沢一郎" target="北脇昇" weight="5.0"/>
+      <edge id="3242" source="福沢一郎" target="麻生三郎" weight="8.0"/>
+      <edge id="3243" source="福田繁雄" target="木村光佑" weight="7.0"/>
+      <edge id="3244" source="福田繁雄" target="靉嘔" weight="6.0"/>
+      <edge id="3245" source="保田春彦" target="豊福知徳" weight="6.0"/>
+      <edge id="3246" source="保田春彦" target="堀内正和" weight="5.0"/>
+      <edge id="3247" source="保田春彦" target="靉嘔" weight="7.0"/>
+      <edge id="3248" source="豊福知徳" target="堀内正和" weight="5.0"/>
+      <edge id="3249" source="北脇昇" target="麻生三郎" weight="5.0"/>
+      <edge id="3250" source="堀内正和" target="木村賢太郎" weight="5.0"/>
+      <edge id="3251" source="堀内正和" target="木内克" weight="5.0"/>
+      <edge id="3252" source="堀内正和" target="靉嘔" weight="6.0"/>
+      <edge id="3253" source="木村光佑" target="野田哲也" weight="9.0"/>
+      <edge id="3254" source="木村光佑" target="脇田愛二郎" weight="6.0"/>
+      <edge id="3255" source="木村光佑" target="靉嘔" weight="11.0"/>
+      <edge id="3256" source="木村光佑*" target="靉嘔*" weight="6.0"/>
+      <edge id="3257" source="木内克" target="柳原義達" weight="5.0"/>
+      <edge id="3258" source="野田哲也" target="靉嘔" weight="11.0"/>
+      <edge id="3259" source="李禹煥" target="靉嘔" weight="5.0"/>
+    </edges>
+  </graph>
+</gexf>
